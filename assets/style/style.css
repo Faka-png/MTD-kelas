@@ -152,6 +152,8 @@ body {
     width: 100%;
     height: 50rem;
     padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
     scroll-margin-top: 120px;
 }
 
@@ -184,7 +186,7 @@ body {
 
 .kelompok.bagian-6{
     color: #f7f7f7;
-    background: linear-gradient(to bottom, #3b6cff 0%, #0046FF 50%, #0033b8 100%);
+    background: linear-gradient(to bottom, #598afc 0%, #3272fd 50%,#0741e2 100%);
 }
 
 .kelompok.bagian-7{
@@ -215,7 +217,6 @@ body {
 .gambar-kiri img{
     width: 48rem;
     height: 42rem;
-    margin-left: 200px;
     margin-right: 200px;
     margin-top: 10px;
     border-color: #000;
@@ -234,7 +235,6 @@ body {
     width: 48rem;
     height: 42rem;
     margin-left: 200px;
-    margin-right: 200px;
     margin-top: 10px;
     border-color: #000;
     border-radius: 10px;
@@ -248,7 +248,7 @@ body {
 }
 
 .tulisan h1{
-    font-size: 5.8rem;
+    font-size: 5rem;
     margin-bottom: 80px;
 }
 
@@ -258,7 +258,7 @@ body {
 }
 
 .tulisan p{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 .panel-kiri{
@@ -275,7 +275,7 @@ body {
     flex-direction: row;
     gap: 40px;
     justify-content: right;
-    text-align: right;
+    text-align: left;
     margin: 20px;
 }
 
